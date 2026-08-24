@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying bachelor thesis."
+title: "Simulation of a Fully Memristive Reservoir Computing Architecture"
+type: software
+authors:
+  - family-names: Isljami
+    given-names: Erion
+    affiliation: ETH Zurich
+repository-code: "https://github.com/erionloni/Simulation-of-a-Fully-Memristive-Reservoir-Computing-Architecture"

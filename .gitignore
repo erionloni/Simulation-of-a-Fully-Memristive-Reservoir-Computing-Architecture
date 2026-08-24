@@ -1,0 +1,29 @@
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editor settings
+.idea/
+.vscode/
+
+# Generated models
+*.keras
+*.h5
+*.hdf5
+
+# Generated experiment outputs
+Problem_1/FOM Outputs/
+Problem_1/COM Outputs/
+Problem_2/FOM Outputs/
+Problem_2/COM Outputs/
