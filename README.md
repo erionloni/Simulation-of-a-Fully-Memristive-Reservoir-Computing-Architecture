@@ -55,8 +55,8 @@ This repository accompanies the bachelor thesis **“Simulation of a Fully Memri
 
 ## Advisors
 
-- Elias Passerini
 - Nadia Jimenez Olalla
+- Elias Passerini
 - Prof. Dr. Juerg Leuthold
 
 ## License
